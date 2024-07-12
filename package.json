@@ -1,0 +1,20 @@
+{
+  "name": "mycustombot",
+  "version": "1.0.0",
+  "description": "Custom Trading Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "J0BL3SS",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.1.4",
+    "nth-check": "^2.1.1",
+    "steam-totp": "^2.1.2",
+    "steam-tradeoffer-manager": "^2.10.5",
+    "steam-user": "^4.28.6",
+    "steamcommunity": "^3.44.3",
+    "tf2-item-format": "^5.9.4"
+  }
+}
